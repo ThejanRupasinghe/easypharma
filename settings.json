@@ -1,0 +1,10 @@
+{
+  "public": {
+  },
+  "private": {
+    "username": "easyweb.lk@gmail.com",
+    "password": "vclludhdfvlqajnc",
+    "server": "smtp.gmail.com",
+    "port": 587
+  }
+}
